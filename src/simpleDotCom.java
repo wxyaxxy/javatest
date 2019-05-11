@@ -10,6 +10,7 @@ public class simpleDotCom {
             if (guess == cell) {
                 result = "hit";
                 numOfHits++;
+//                locationCells.remove(cell);
                 break;
             }
         }
@@ -24,4 +25,5 @@ public class simpleDotCom {
     void setLocationCells(int[] p) {
         locationCells = p;
     }
+
 }

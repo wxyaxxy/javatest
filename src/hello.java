@@ -1,5 +1,5 @@
-import java.awt.*;
-import java.awt.event.*;
+//import java.awt.*;
+//import java.awt.event.*;
 
 public class hello {
 //    public static void main(String[] args){
@@ -14,5 +14,6 @@ public class hello {
 //        Panel p = new Panel();
 //        p.add(l);
         System.out.println("haha");
+        System.out.println();
     }
 }
