@@ -23,7 +23,7 @@ public class ArrayListMagnet {
             a.add("2.2");
         }
         printAL(a);
-        
+
     }
 
     public static void printAL(ArrayList<String> al) {
